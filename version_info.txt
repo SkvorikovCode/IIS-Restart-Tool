@@ -1,0 +1,28 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),
+    prodvers=(1, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+    ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        u'040904B0',
+        [StringStruct(u'CompanyName', u'Your Company'),
+        StringStruct(u'FileDescription', u'EDOC XDE IIS Restart Tool'),
+        StringStruct(u'FileVersion', u'2.0.0'),
+        StringStruct(u'InternalName', u'EDOC_XDE_IIS_RESTART'),
+        StringStruct(u'LegalCopyright', u'Copyright (c) 2024'),
+        StringStruct(u'OriginalFilename', u'EDOC_XDE_IIS_RESTART.exe'),
+        StringStruct(u'ProductName', u'IIS Restart Tool'),
+        StringStruct(u'ProductVersion', u'1.5.1')])
+      ]), 
+    VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
+  ]
+) 
